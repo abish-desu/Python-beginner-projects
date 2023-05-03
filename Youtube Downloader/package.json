@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "youtube-sr": "^4.1.17",
+    "ytdl-core": "^4.11.0"
+  }
+}
